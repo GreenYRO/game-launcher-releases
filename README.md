@@ -6,11 +6,13 @@ Un launcher pentru Windows, făcut ca lucrare de licență și dat câtorva prie
 [![Descarcă GameLauncher-Setup.exe](https://img.shields.io/github/v/release/GreenYRO/game-launcher-releases?label=Descarc%C4%83%20GameLauncher-Setup.exe&style=for-the-badge&color=2ea44f)](https://github.com/GreenYRO/game-launcher-releases/releases/latest/download/GameLauncher-Setup.exe)
 [![Descărcări](https://img.shields.io/github/downloads/GreenYRO/game-launcher-releases/total?style=for-the-badge&label=desc%C4%83rc%C4%83ri)](https://github.com/GreenYRO/game-launcher-releases/releases)
 
-<!-- Capturile vin aici când există: docs/media/grid.png (grila), docs/media/game-page.png, docs/media/tv-mode.png
 <p align="center">
-  <img src="docs/media/grid.png" alt="Grila de coperți" width="820">
+  <a href="https://github.com/GreenYRO/game-launcher-releases/blob/main/docs/media/game-launcher-intro.mp4">
+    <img src="docs/media/intro.gif" alt="Game Launcher: magazinele împrăștiate pe ecran se strâng într-o singură fereastră" width="820">
+  </a>
+  <br>
+  <sub>▶ <a href="https://github.com/GreenYRO/game-launcher-releases/blob/main/docs/media/game-launcher-intro.mp4">Clipul întreg, cu sunet</a> (23 de secunde, 5,5 MB)</sub>
 </p>
--->
 
 **[English below ↓](#english)**
 
@@ -43,6 +45,12 @@ Un launcher pentru Windows, făcut ca lucrare de licență și dat câtorva prie
 - Face **copii ale salvărilor** jocurilor pornite din el.
 - Favorite, statistici și o pagină cu spațiul ocupat de jocuri pe fiecare disc.
 - Merge cu **controlerul** (Xbox, DualSense) și pe **televizor**, în modul TV.
+
+| Biblioteca | Pagina unui joc |
+|:---:|:---:|
+| [![Biblioteca](docs/media/library.jpg)](docs/media/library.jpg) | [![Pagina unui joc](docs/media/game-page.jpg)](docs/media/game-page.jpg) |
+| **Statistici** | **Modul TV** |
+| [![Statistici](docs/media/stats.jpg)](docs/media/stats.jpg) | [![Modul TV](docs/media/tv-mode.jpg)](docs/media/tv-mode.jpg) |
 
 ## Ce citește de pe PC-ul tău
 
@@ -136,6 +144,8 @@ A Windows game launcher made for a bachelor thesis and shared with a few friends
 - **Backs up the saves** of games started from it.
 - Favorites, stats and a page showing how much space games take on each drive.
 - Works with a **controller** (Xbox, DualSense) and on a **TV**, in TV mode.
+
+Screenshots are above, in the Romanian section; the app itself is in English.
 
 ### What it reads on your PC
 
