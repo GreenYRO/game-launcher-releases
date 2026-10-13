@@ -7,11 +7,9 @@ Un launcher pentru Windows, făcut ca lucrare de licență și dat câtorva prie
 [![Descărcări](https://img.shields.io/github/downloads/GreenYRO/game-launcher-releases/total?style=for-the-badge&label=desc%C4%83rc%C4%83ri)](https://github.com/GreenYRO/game-launcher-releases/releases)
 
 <p align="center">
-  <a href="https://github.com/GreenYRO/game-launcher-releases/blob/main/docs/media/game-launcher-intro.mp4">
-    <img src="docs/media/intro.gif" alt="Game Launcher: magazinele împrăștiate pe ecran se strâng într-o singură fereastră" width="820">
-  </a>
+  <img src="docs/media/intro.gif" alt="Game Launcher: magazinele împrăștiate pe ecran se strâng într-o singură fereastră" width="820">
   <br>
-  <sub>▶ <a href="https://github.com/GreenYRO/game-launcher-releases/blob/main/docs/media/game-launcher-intro.mp4">Clipul întreg, cu sunet</a> (23 de secunde, 5,5 MB)</sub>
+  <sub>▶ <a href="https://raw.githubusercontent.com/GreenYRO/game-launcher-releases/main/docs/media/game-launcher-intro.mp4">Descarcă clipul întreg, cu sunet</a> (23 de secunde, 5,5 MB)</sub>
 </p>
 
 **[English below ↓](#english)**
