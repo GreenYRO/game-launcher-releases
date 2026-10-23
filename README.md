@@ -2,9 +2,11 @@
 
 Toate jocurile de pe PC într-un singur loc: Steam, GOG, Epic, Xbox și cele din folderele tale.
 Un launcher pentru Windows, făcut ca lucrare de licență și dat câtorva prieteni.
+Codul sursă e public, cu documentele lucrării: [GreenYRO/game-launcher-source](https://github.com/GreenYRO/game-launcher-source).
 
 [![Descarcă GameLauncher-Setup.exe](https://img.shields.io/github/v/release/GreenYRO/game-launcher-releases?label=Descarc%C4%83%20GameLauncher-Setup.exe&style=for-the-badge&color=2ea44f&cacheSeconds=3600)](https://github.com/GreenYRO/game-launcher-releases/releases/latest/download/GameLauncher-Setup.exe)
 [![Descărcări](https://img.shields.io/github/downloads/GreenYRO/game-launcher-releases/total?style=for-the-badge&label=desc%C4%83rc%C4%83ri)](https://github.com/GreenYRO/game-launcher-releases/releases)
+[![Codul sursă](https://img.shields.io/badge/codul%20surs%C4%83-game--launcher--source-7c6cf0?style=for-the-badge&logo=github)](https://github.com/GreenYRO/game-launcher-source)
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/GreenYRO/game-launcher-releases/main/docs/media/game-launcher-trailer.mp4"><img src="docs/media/trailer.gif" alt="Game Launcher: For you, Starting..., How was it?, cardul Recap, Wishlist, modul TV și culorile de accent" width="820"></a>
@@ -153,6 +155,7 @@ Aici sunt doar installerele. Codul sursă e public, cu documentele lucrării, î
 
 All the games on your PC in one place: Steam, GOG, Epic, Xbox and the ones in your own folders.
 A Windows game launcher made for a bachelor thesis and shared with a few friends.
+The source code is public, with the thesis documents: [GreenYRO/game-launcher-source](https://github.com/GreenYRO/game-launcher-source).
 
 The trailer is at the top of the page: [download it with sound](https://raw.githubusercontent.com/GreenYRO/game-launcher-releases/main/docs/media/game-launcher-trailer.mp4) (37 seconds, 9.4 MB).
 
