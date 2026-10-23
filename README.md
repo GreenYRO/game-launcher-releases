@@ -3,7 +3,7 @@
 Toate jocurile de pe PC într-un singur loc: Steam, GOG, Epic, Xbox și cele din folderele tale.
 Un launcher pentru Windows, făcut ca lucrare de licență și dat câtorva prieteni.
 
-[![Descarcă GameLauncher-Setup.exe](https://img.shields.io/github/v/release/GreenYRO/game-launcher-releases?label=Descarc%C4%83%20GameLauncher-Setup.exe&style=for-the-badge&color=2ea44f)](https://github.com/GreenYRO/game-launcher-releases/releases/latest/download/GameLauncher-Setup.exe)
+[![Descarcă GameLauncher-Setup.exe](https://img.shields.io/github/v/release/GreenYRO/game-launcher-releases?label=Descarc%C4%83%20GameLauncher-Setup.exe&style=for-the-badge&color=2ea44f&cacheSeconds=3600)](https://github.com/GreenYRO/game-launcher-releases/releases/latest/download/GameLauncher-Setup.exe)
 [![Descărcări](https://img.shields.io/github/downloads/GreenYRO/game-launcher-releases/total?style=for-the-badge&label=desc%C4%83rc%C4%83ri)](https://github.com/GreenYRO/game-launcher-releases/releases)
 
 <p align="center">
