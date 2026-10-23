@@ -144,7 +144,8 @@ timpul jucat, ca să le regăsești dacă îl instalezi din nou.
 
 ## Codul
 
-Codul nu e în acest depozit; aici sunt doar installerele.
+Aici sunt doar installerele. Codul sursă e public, cu documentele lucrării, în
+[GreenYRO/game-launcher-source](https://github.com/GreenYRO/game-launcher-source).
 
 ---
 
@@ -265,4 +266,5 @@ you find them again if you reinstall.
 
 ### The code
 
-The code is not in this repository; only the installers are.
+Only the installers are here. The source code is public, with the thesis documents, at
+[GreenYRO/game-launcher-source](https://github.com/GreenYRO/game-launcher-source).
